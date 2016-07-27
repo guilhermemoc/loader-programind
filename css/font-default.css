@@ -1,0 +1,267 @@
+/*Oswald Font = FD1*/
+
+@import url('https://fonts.googleapis.com/css?family=Oswald');
+
+/*Roboto Font =FD2*/
+
+@import url('https://fonts.googleapis.com/css?family=Roboto+Condensed');
+
+/*Open Sans Font = FD3*/
+
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,300,300italic,400italic,600,600italic,700,700italic,800italic,800');
+
+/*Poiret One Font FD4*/
+
+@import url('https://fonts.googleapis.com/css?family=Poiret+One');
+
+/*FONT DEFAULT  1 CLASS*/
+
+.fd1-big {
+  font-family: 'Oswald', sans-serif;
+  font-size: 2.58em;
+}
+
+.fd1-huge {
+  font-family: 'Oswald', sans-serif;
+  font-size: 2.95em;
+}
+
+.fd1-giant {
+  font-family: 'Oswald', sans-serif;
+  font-size: 3.98em;
+}
+
+.fd1 {
+  font-family: 'Oswald', sans-serif;
+  font-size: 1.5em;
+}
+
+.center {
+  text-align: center;
+  margin: 0 auto;
+  display: block;
+  margin-bottom: 0.5em;
+}
+
+.fd1-h1 {
+  font-family: 'Oswald', sans-serif;
+  font-size: 2em;
+}
+
+.fd1-h2 {
+  font-family: 'Oswald', sans-serif;
+  font-size: 1.5em;
+}
+
+.fd1-h3 {
+  font-family: 'Oswald', sans-serif;
+  font-size: 1.17em;
+}
+
+.fd1-h4 {
+  font-family: 'Oswald', sans-serif;
+  font-size: 1.17em;
+}
+
+.fd1-h5 {
+  font-family: 'Oswald', sans-serif;
+  font-size: 0.83em;
+}
+
+.fd1-h6 {
+  font-family: 'Oswald', sans-serif;
+  font-size: 0.67em;
+}
+
+.fd1-small {
+  font-family: 'Oswald', sans-serif;
+  font-size: 0.9em;
+}
+
+
+/*FONT DEFAULT 1 CLASS*/
+
+
+/*FONT DEFAULT  2 CLASS*/
+
+.fd2-big {
+  font-family: 'Roboto', sans-serif;
+  font-size: 2.58em;
+}
+
+.fd2-huge {
+  font-family: 'Roboto', sans-serif;
+  font-size: 2.95em;
+}
+
+.fd2-giant {
+  font-family: 'Roboto', sans-serif;
+  font-size: 3.98em;
+}
+
+.fd2 {
+  font-family: 'Roboto', sans-serif;
+  font-size: 1.5em;
+}
+
+
+.fd2-h1 {
+  font-family: 'Roboto', sans-serif;
+  font-size: 2em;
+}
+
+.fd2-h2 {
+  font-family: 'Roboto', sans-serif;
+  font-size: 1.5em;
+}
+
+.fd2-h3 {
+  font-family: 'Roboto', sans-serif;
+  font-size: 1.17em;
+}
+
+.fd2-h4 {
+  font-family: 'Roboto', sans-serif;
+  font-size: 1.17em;
+}
+
+.fd2-h5 {
+  font-family: 'Roboto', sans-serif;
+  font-size: 0.83em;
+}
+
+.fd2-h6 {
+  font-family: 'Roboto', sans-serif;
+  font-size: 0.67em;
+}
+
+.fd2-small {
+  font-family: 'Roboto', sans-serif;
+  font-size: 0.9em;
+}
+
+
+/*FONT DEFAULT 2 CLASS*/
+
+
+/*FONT DEFAULT  3 CLASS*/
+
+.fd3-big {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 2.58em;
+}
+
+.fd3-huge {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 2.95em;
+}
+
+.fd3-giant {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 3.98em;
+}
+
+.fd3 {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 1.5em;
+}
+
+
+.fd3-h1 {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 2em;
+}
+
+.fd3-h2 {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 1.5em;
+}
+
+.fd3-h3 {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 1.17em;
+}
+
+.fd3-h4 {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 1.17em;
+}
+
+.fd3-h5 {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 0.83em;
+}
+
+.fd3-h6 {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 0.67em;
+}
+
+.fd3-small {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 0.9em;
+}
+
+
+/*FONT DEFAULT 3 CLASS*/
+
+
+/*FONT DEFAULT  4 CLASS*/
+
+.fd4-big {
+  font-family: 'Poiret One', cursive;
+  font-size: 2.58em;
+}
+
+.fd4-huge {
+  font-family: 'Poiret One', cursive;
+  font-size: 2.95em;
+}
+
+.fd4-giant {
+  font-family: 'Poiret One', cursive;
+  font-size: 3.98em;
+}
+
+.fd4 {
+  font-family: 'Poiret One', cursive;
+  font-size: 1.5em;
+}
+
+.fd4-h1 {
+  font-family: 'Poiret One', cursive;
+  font-size: 2em;
+}
+
+.fd4-h2 {
+  font-family: 'Poiret One', cursive;
+  font-size: 1.5em;
+}
+
+.fd4-h3 {
+  font-family: 'Poiret One', cursive;
+  font-size: 1.17em;
+}
+
+.fd4-h4 {
+  font-family: 'Poiret One', cursive;
+  font-size: 1.17em;
+}
+
+.fd4-h5 {
+  font-family: 'Poiret One', cursive;
+  font-size: 0.83em;
+}
+
+.fd4-h6 {
+  font-family: 'Poiret One', cursive;
+  font-size: 0.67em;
+}
+
+.fd4-small {
+  font-family: 'Poiret One', cursive;
+  font-size: 0.9em;
+}
+
+
+/*FONT DEFAULT 4 CLASS*/

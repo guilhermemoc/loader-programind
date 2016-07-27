@@ -1,0 +1,38 @@
+*{
+color: #000;
+margin: 0;
+padding: 0;
+}
+
+body{
+  width: 100%;
+  height: auto;
+  background-color: #323844;
+}
+
+.container{
+  width: 100%;
+  margin: 0 auto;
+  display: block;
+  height: auto;
+}
+
+.loading-widget{
+  width: 300px;
+  height: 350px;
+  background-color: #242a34;
+  border-radius: 8px;
+  margin: 2em;
+  }
+
+  .loading-bar{
+    height: 60px;
+    background-color: #272d38;
+    border-radius: 8px;
+    border-bottom: none;
+  }
+
+.loader{
+  margin-top: calc(200px/2);
+  text-align: center;
+}
